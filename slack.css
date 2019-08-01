@@ -858,7 +858,7 @@ a.file_download_link:hover {
         color: white !important;
     }
     .c-calendar_view_header__stepper_btn:hover, .c-calendar_view_header__title_btn:hover {
-        background-color: #565656 !important;
+        background-color: #fff !important;
     }
     .c-date_picker_calendar__date.c-date_picker_calendar__date--is_active:focus:not(.c-date_picker_calendar__date--is_selected), .c-date_picker_calendar__date:not(.c-date_picker_calendar__date--disabled):not(.c-date_picker_calendar__date--is_selected):hover{
         background-color: rgb(255, 110, 39) !important;
@@ -1641,7 +1641,7 @@ color:white;}
     background: #222222;}
     #client-ui .searchable_member_list .team_list_item {
     padding: .75rem .5rem .75rem .75rem;
-    border-bottom: 1px solid #565656}
+    border-bottom: 1px solid #fff}
     #whats_new_tab p {
     font-size: 15px;
     line-height: 22px;
