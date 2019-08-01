@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: auto;
 }
 .p-member_directory__search_filter_container{
- background-color: #1a1a1a !important;
+ background-color: #fff !important;
 }
 .p-message_pane_input__disabled {
     background-color: #151515;
@@ -21,10 +21,10 @@ body {
     box-shadow: 0 0 0 3px rgb(87, 226, 117), 0 0 0 6px rgba(255,255,255,0.3);}
 
 .p-member_directory__member_row {
-    background-color: #1a1a1a !important;
+    background-color: #fff !important;
     border-bottom: 1px solid #000 !important;}
     .p-member_directory__member_row:focus, .p-member_directory__member_row:focus-within, .p-member_directory__member_row:hover {
-    background-color: #222222 !important;}
+    background-color: #fff !important;}
     
  .CodeMirror-cursor {
     border-left-color: rgba(255,255,255,1) !important;
@@ -39,7 +39,7 @@ body {
     background-color: #60609F !important;
   }
   .p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover, .p-channel_sidebar__close_container:hover {
-    background: #313131 !important;
+    background: #fff !important;
 }
   .c-button--outline-primary {
     transition: all 80ms linear;
@@ -53,11 +53,11 @@ body {
   .c-dialog_speed_bump_overlay {
     background: hsla(0, 0%, 0%, 0.7);}
     .c-dialog_speed_bump {
-    background-color: #2b2b2b !important;
+    background-color: #fff !important;
     border-radius: 0 0 8px 8px;
     border-top: 1px solid #4a4a4a !important;}
 .p-calls_settings_panel {
-background-color: #222222 !important;
+background-color: #fff !important;
 }
 .p-file_viewer__header__meta__name{
 color:white !important}
@@ -67,7 +67,7 @@ background:#666 !important}
 background-color: #222222 !important;
 }
 input.c-input_text[disabled], input[type=text].c-input_text[disabled], .p-prefs_modal__downloads_input {
-background: #222222;
+background: #fff;
 color: #868686;
 }
 .p-calls_settings_panel {
@@ -2604,12 +2604,12 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
      border-right: 1px solid #404040 !important;
      }
 .c-texty_autocomplete__result_highlight{
-background:#222222 !important}
+background:#fff !important}
 .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before {
     box-shadow: 0 32px #fff;
     border-bottom: none !important;}
     .p-unreads_view__header {
-    background: #373737;
+    background: #fff;
     color: white;}
 .p-threads_flexpane__separator_count {
     margin-right: 12px;
