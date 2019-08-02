@@ -532,7 +532,7 @@ p-search_filter__date:first-child {
 
 
 .light_theme ts-message .message_content .message_sender {
-    color:  #32CD32 !important;
+    color:  white !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
