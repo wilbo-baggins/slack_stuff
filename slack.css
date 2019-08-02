@@ -135,7 +135,7 @@ span.c-message__body,
 a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
-    color: #32CD32;
+    color: white;
     font-size: 14px;
     letter-spacing: 0.3px !important;
 }
@@ -381,7 +381,7 @@ ts-message .mention {
     background: #000000 !important;
 }
 .c-search_message__body {
-    color: #cacbcc !important;
+    color: white !important;
 }
 .p-search_filter__title_text {
     background: #2b2c2e !important;
@@ -2245,7 +2245,7 @@ ts-message .internal_member_link:hover {
     background: #000000;
 }
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
-    color: #32CD32;
+    color: white;
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
