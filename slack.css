@@ -474,7 +474,7 @@ p-search_filter__date:first-child {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #32CD32;
+    color: white;
     outline: none;
     text-decoration: underline;
 }
