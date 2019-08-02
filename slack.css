@@ -1405,7 +1405,7 @@ color:#a4d677 !important
     box-shadow: 0px 20px 20px 12px rgba(0,0,0,0.5), 0 4px 12px 0 rgba(0,0,0,0.5);
     background-color: #000000;}
     .light_theme ts-message.first:not(.feature_file_threads) .message_body, .light_theme ts-message.selected:not(.feature_file_threads) .message_body{
-    color:white}
+    color:white;}
     .star_item{
     border-bottom: 1px solid #4a4a4a;
 }
