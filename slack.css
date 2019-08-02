@@ -526,7 +526,7 @@ p-search_filter__date:first-child {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link{
- color: #a4d677 !important;
+ color: #32CD32 !important;
 }
 
 
@@ -1008,7 +1008,7 @@ color:#a4d677 !important
         }
      
          a.c-message__sender_link{
-            color: #a4d677 !important ;
+            color: #32CD32 !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
@@ -2245,7 +2245,7 @@ ts-message .internal_member_link:hover {
     background: #000000;
 }
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
-    color: white;
+    color: #32CD32;
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
