@@ -1217,7 +1217,7 @@ color:#a4d677 !important
     
 .channel_title .channel_name {
 
-    color: #ffffff;}
+    color: #32CD32;}
     
     #footer{
      background: #000000;
@@ -1345,11 +1345,11 @@ color:#a4d677 !important
     background: #000000;
     }
     .channel_header_info_item.channel_header_member_status #header_status_message{
-    color:white;}
+    color: #32CD32;}
     .channel_header{
     box-shadow: inset 1px 0 0 0 #000;}
     .p-channel_insights .c-unified_member__title{
-        color: #adadad;}
+        color: #32CD32;}
         .channel_page_member_row:hover {
     background-color: #545454;
     border-color: #000000;}
@@ -1441,7 +1441,7 @@ background: #000000;}
     #menu.search_filter_menu label{
     color:white;}
     .channel_header .blue_on_hover:hover {
-    color: #ffffff;}
+    color: #32CD32;}
     .menu{
     background: #000000;}
     #msg_input.focus, #msg_input:focus{
@@ -1459,7 +1459,7 @@ background: #000000;}
     visibility: hidden;
     color: #ffffff;}
     .channel_header_info button{
-color:white;}
+color: #32CD32;}
 .channel_header .blue_on_hover:hover{
 color:white;}
 #edit_topic_inner:before {
