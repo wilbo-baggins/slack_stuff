@@ -474,7 +474,7 @@ p-search_filter__date:first-child {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6;
+    color: #32CD32;
     outline: none;
     text-decoration: underline;
 }
@@ -532,7 +532,7 @@ p-search_filter__date:first-child {
 
 
 .light_theme ts-message .message_content .message_sender {
-    color:  #a4d677 !important;
+    color:  #32CD32 !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
@@ -657,7 +657,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6 !important;
+    color: #32CD32 !important;
     border: none !important;
 }
 .c-message_group .c-message_group__header:focus .c-channel_name,
@@ -742,7 +742,7 @@ code {
     font-weight:bold;
 }
 .c-link--button {
-    color: #36D4F6 !important;
+    color: #32CD32 !important;
 }
 .p-file_upload_dialog__section input.c-input_text:focus {
     background: transparent !important;
@@ -1178,7 +1178,7 @@ color:#a4d677 !important
                                                                     textarea.c-input_textarea.c-input_textarea--with_hint {
                                                                         color: white;}
                                                                         .c-sidebar_menu__list li .c-link--button{
-                                                                            color:white !important;
+                                                                            color: #32CD32 !important;
 
                                                                         }
                                                                         .p-prefs_modal__radiogroup .p-prefs_modal__radio_decorator {
@@ -1671,7 +1671,7 @@ color:white;}
     text-overflow: ellipsis;
     color: white;}
     .c-link--button:active, .c-link--button:focus, .c-link--button:hover{
-    color:white !important; text-decoration:none}
+    color: #32CD32 !important; text-decoration:none}
     .p-help_modal__list__item:focus, .p-help_modal__list__item:hover, .p-help_modal__list__item__focus {
     cursor: pointer;
     outline: none;
