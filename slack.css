@@ -944,7 +944,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
     }
     .c-calendar_view_header__stepper_btn{background: #000000 !important}
     .c-react_search_input .ts_icon_times_small:active, .c-react_search_input .ts_icon_times_small:focus, .c-react_search_input .ts_icon_times_small:hover{
-        color:white !important;
+        color: white !important;
     }
     .unread_group .unread_group_header .unread_group_mark, .unread_group .unread_group_header .unread_keyboard{
         background: #000000 !important;
@@ -960,7 +960,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
         color: white !important;}
 .p-threads_footer__input .p-message_input_field.focus {
     border-color: transparent !important;
-    background: #000000  !important; color: white !important;}
+    background: #000000  !important; 
+    color: white !important;}
     .p-threads_footer__input .p-message_input_field.focus~.p-message_input_file_button:not(:hover){
         border-color: transparent;
         color:white !important;
@@ -992,7 +993,7 @@ color:white !important;
     color: white;
 }
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea{
-    colo:white !important;
+    color: white !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
@@ -2599,9 +2600,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: #ffffff !important;}
   
     .c-texty_autocomplete__result{
-    color:white !important}
+    color: white !important}
     .overflow_ellipsis{
-    color:white !important}
+    color: white !important}
  .p-classic_nav__team_header{
      border-right: 1px solid #404040 !important;
      }
