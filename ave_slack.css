@@ -2433,7 +2433,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding: 0 16px 12px 16px;
     border-bottom: 1px solid #333333;}
     .p-classic_nav__model__title__name--dim{
-    color: #6698C8 !important;}
+    color: #F28FD9 !important;}
     .p-team_sidebar__icon--active, .p-team_sidebar__icon--active:hover {
     box-shadow: 0 0 0 3px rgb(14,14,14), 0 0 0 6px #31dad2 !important;}
     .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
