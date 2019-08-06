@@ -275,6 +275,7 @@ ts-message .mention {
 #convo_tab textarea#msg_text {
     width: 100%;
     background: #000000 !important;
+    background-color: #000000 !important;
     border: 1px solid #31353d !important;
     color: white !important;
 }
@@ -868,7 +869,7 @@ a.file_download_link:hover {
         background-color: #000000 !important;
         color: white;}
 .p-block_kit_date_picker_calendar_wrapper .c-date_picker_calendar__date--disabled, .p-block_kit_date_picker_calendar_wrapper .c-mini_calendar__month_button:disabled {
-            background: #ffffff;
+            background: #000000;
 }
 #team_tab #member_preview_scroller .feature_custom_status_expiry.member_details .member_name {
 color: white !important;
@@ -2600,9 +2601,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: #ffffff !important;}
   
     .c-texty_autocomplete__result{
-    color: white !important}
+    color:white !important}
     .overflow_ellipsis{
-    color: white !important}
+    color:white !important}
  .p-classic_nav__team_header{
      border-right: 1px solid #404040 !important;
      }
