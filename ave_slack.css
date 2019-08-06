@@ -658,7 +658,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #32CD32 !important;
+    color: #ffffff !important;
     border: none !important;
 }
 .c-message_group .c-message_group__header:focus .c-channel_name,
@@ -667,7 +667,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-    color: #36D4F6 !important;
+    color: #ffffff !important;
     border: none !important;
 }
 .p-search_filter__date:first-child {
@@ -1182,7 +1182,7 @@ color:#a4d677 !important
                                                                     textarea.c-input_textarea.c-input_textarea--with_hint {
                                                                         color: white;}
                                                                         .c-sidebar_menu__list li .c-link--button{
-                                                                            color: #32CD32 !important;
+                                                                            color: #F28FD9 !important;
 
                                                                         }
                                                                         .p-prefs_modal__radiogroup .p-prefs_modal__radio_decorator {
