@@ -2588,6 +2588,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding: 24px 30px;
     background-color: #000000 !important;}
     .p-message_pane_input__preview_metadata {
+    background-color: #000000 !important;
     color: #666666 !important;}
     .c-base_inline_entity__primary_content {
     display: inline;
