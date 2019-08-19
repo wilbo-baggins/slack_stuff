@@ -254,7 +254,8 @@ ts-message .mention {
   padding: 0px 2px 1px 2px;
    }
    .c-member_slug--link:hover {
-    background: #545454; color:white !important}
+    background: #545454; 
+    color:white !important}
 .menu_content a {
     color: white !important;
 }
@@ -700,12 +701,12 @@ a:hover {
     background: transparent !important
 }
 .c-file__slide--meta {
-    background-color: ##000000 !important;
+    background-color: #000000 !important;
     width: 110px;
     color: white !important;
 }
 #msg_input {
-    background: ##000000 !important;
+    background: #000000 !important;
 }
 .p-file_list__empty {
     color: white !important;
@@ -1160,7 +1161,7 @@ color:#a4d677 !important
                                                 .c-message_kit__background--labels {
                                                     background: #000000;}
                                                     .c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link{
-                                                        color: rgba(255, 255, 255, 0.7);
+                                                        color: white;
                                                     }
                                                     .c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover {
                                                         color: #545454;
@@ -2312,7 +2313,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-classic_nav__right__search__placeholder {
     color: #858585;}
     p-classic_nav__right__search:hover {
-    border-color: rgba(255, 255, 255, 0.7) !important;}
+    border-color: #000000 !important;}
     .p-channel_details_section__title-content{
     color:white !important}
     .c-member_name {
