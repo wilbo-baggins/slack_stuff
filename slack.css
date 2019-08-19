@@ -2253,9 +2253,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
-    background: #000000 !important;}
+    background-color: #000000 !important;}
     .p-workspace__input .p-message_input_field {
-    background: #000000;
+    background-color: #000000;
     border-radius: 4px;
     border-width: 1px;
     border-color: #000000;
@@ -2267,7 +2267,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     flex: 1;
     padding-left: 43px;
     z-index: 200;
-    color: white;}
+    color: #666666;}
     .c-member_slug--link{
     font-size:14.6px !important}
     .c-texty_autocomplete {
@@ -2433,7 +2433,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding: 0 16px 12px 16px;
     border-bottom: 1px solid #333333;}
     .p-classic_nav__model__title__name--dim{
-    color: #6698C8 !important;}
+    background-color: #000000;
+    color: #666666 !important;}
     .p-team_sidebar__icon--active, .p-team_sidebar__icon--active:hover {
     box-shadow: 0 0 0 3px rgb(14,14,14), 0 0 0 6px #31dad2 !important;}
     .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
