@@ -392,7 +392,7 @@ ts-message .mention {
     color: #000000 !important;
 }
 .p-search_filter__dates {
-    background: ##000000 !important;
+    background: #000000 !important;
     border: none !important;
     color: #cacbcc !important;
 }
@@ -853,7 +853,7 @@ a.file_download_link:hover {
     color: white;
 }
     .c-date_picker_calendar__date {
-        background: white;
+        background: #000000;
     }
     .c-calendar_view_header__stepper_btn, .c-calendar_view_header__title_btn i{
         color: white !important;
@@ -1180,6 +1180,7 @@ color:#a4d677 !important
                                                                         color:white;
                                                                     }
                                                                     textarea.c-input_textarea.c-input_textarea--with_hint {
+                                                                        background-color: #000000;
                                                                         color: white;}
                                                                         .c-sidebar_menu__list li .c-link--button{
                                                                             color: #32CD32 !important;
@@ -1912,8 +1913,7 @@ color:white;}
     padding: 0 4px;
     border-radius: 3px;}
     .pinned_item .pinned_message_text .pin_truncate_fade {
-  
-    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#343434),color-stop(1,rgba(255,255,255,0)));}
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#343434),color-stop(1,#000000));}
     #client-ui .file_list_item.file_list_item--redesign {
     flex-wrap: wrap;
     margin-top: 0;
