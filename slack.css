@@ -122,6 +122,8 @@ color:white}
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
   font-family: 'Muli', sans-serif !important;
+  background-color: #000000;
+  color: #ffffff;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
@@ -183,7 +185,7 @@ div.c-virtual_list__scroll_container {
     color: white;
 }
 .c-dialog__footer {
-    background: #000000 !important;
+    background-color: #000000 !important;
 }
 div.c-message:hover {
     background-color: #545454 !important;
@@ -355,8 +357,8 @@ ts-message .mention {
     color white !important;
 }
 .c-search_autocomplete footer {
-    background: #000000 !important;
-    color white !important;
+    background-color: #000000 !important;
+    color: white !important;
 }
 .c-search_autocomplete__suggestion_text {
     color white !important;
@@ -953,7 +955,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
         color: white !important;
     }
     .p-threads_footer__input {
-        background: #000000;
+        background-color: #000000;
+        color: #ffffff;
     }
     .p-threads_footer__input .p-message_input_field {
         border-color: transparent !important;
