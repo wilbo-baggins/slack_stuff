@@ -2253,6 +2253,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     font-size: 14.6px;
     letter-spacing: -0.3px !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
+    color: white !important;
+    background: #000000;
     background-color: #000000 !important;}
     .p-workspace__input .p-message_input_field {
     background-color: #000000;
