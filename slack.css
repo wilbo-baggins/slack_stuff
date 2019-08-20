@@ -38,7 +38,7 @@ color:white;}
     text-overflow: ellipsis;
     color: #36D4F6 !important;}
 .workspace__primary_view_footer{
-background-color: #000000 !important;
+background: #000000 !important;
 color: #ffffff !important;
 }
 .p-app_dialog__title_text{
@@ -83,14 +83,14 @@ color:white;}
 }
     .p-user_group_base_row__list_item {
     width: 100%;
-    background-color: #222222 !important;
+    background-color: #000000 !important;
     border-bottom: 1px solid #323232 !important; }
     .p-user_group_list__search {
     border-bottom: 1px solid #686868 !important;}
     .p-user_group_row:hover {
     background-color: #282828 !important;}
  .p-user_group_list {
-    background: #222222;
+    background: #000000;
     color: white;}
 ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
@@ -167,7 +167,7 @@ padding:0 !important}
     border-radius: 0 0 8px 8px;
     border-top: 1px solid #4a4a4a !important;}
 .p-calls_settings_panel {
-background-color: #222222 !important;
+background-color: #000000 !important;
 }
 .p-file_viewer__header__meta__name{
 color:white !important}
@@ -2082,7 +2082,7 @@ color:white;}
     hr {
     border-top: 1px solid #575757;}
    .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before {
-    box-shadow: 0 32px #222222;}
+    box-shadow: 0 32px #000000;}
     
     #team_tab #member_preview_scroller .member_details .member_title:not(:empty) {
     color: #cccccc;}
