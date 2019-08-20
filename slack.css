@@ -15,7 +15,7 @@ body {
     animation: none !important;}
     .c-select_options_list__option--disabled:hover {
     cursor: default;
-    background-color: #000000;}
+    background-color: #232323;}
     .c-base_list_entity--dim {
     color: #959595;}
     .c-base_list_entity--highlight-dim, .c-base_list_entity--highlight-light{
