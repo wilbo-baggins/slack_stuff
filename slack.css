@@ -5,6 +5,10 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-context_bar {
+    background-color: #000000;
+    color: #232323;
+}
 .p-channel_details__similar_channels_channel :hover {
     cursor: pointer;
     color: white;}
